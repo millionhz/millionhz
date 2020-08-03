@@ -1,0 +1,20 @@
+# Hey! <img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/wave.gif" width="30px">
+
+Its me Hamza. I am a CS student who loves to code. I am very good with python. I am always learning and exploring new technologies. I made a few fun projects that you can check out down below.
+
+## 📝 My 2020 Todos
+
+- [x] Learn Python Basics
+- [x] Learn Flutter Basics
+- [ ] Release your first flutter app
+- [ ] Learn Full-Stack Development Basics
+- [ ] Learn Machine Learning Basics
+- [ ] Survive the first university semester
+
+## 🧰 Technologies & Tools
+
+![python](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/python-icon.svg)
+![flutter](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/flutterio-icon.svg)
+![git](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/git-scm-icon.svg)
+![github](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/github-icon.svg)
+![vscode](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/visualstudio_code-icon.svg)
