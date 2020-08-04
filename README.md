@@ -6,6 +6,7 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 
 - [x] Learn Python Basics
 - [x] Learn Flutter Basics
+- [ ] Learn Go Lang Basics
 - [ ] Release your first flutter app
 - [ ] Learn Full-Stack Development Basics
 - [ ] Learn Machine Learning Basics
