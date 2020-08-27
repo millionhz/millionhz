@@ -18,6 +18,10 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 
 ![python](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/python-icon.svg)
 ![flutter](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/flutterio-icon.svg)
+![dart](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/dartlang-icon.svg)
 ![git](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/git-scm-icon.svg)
 ![github](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/github-icon.svg)
 ![vscode](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/visualstudio_code-icon.svg)
+
+<!--https://www.vectorlogo.zone/-->
+<!--https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/-->
