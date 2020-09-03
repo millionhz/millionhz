@@ -11,7 +11,7 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 - [ ] Learn Full-Stack Development Basics
 - [x] Learn Data Science Basics
 - [ ] Learn Machine Learning Basics
-- [ ] Learn C# Basics
+- [x] Learn C# Basics
 - [ ] Survive the first university semester
 
 ## 🧰 Technologies & Tools
@@ -19,6 +19,7 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 ![python](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/python-icon.svg)
 ![flutter](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/flutterio-icon.svg)
 ![dart](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/dartlang-icon.svg)
+![csharp](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/C_Sharp_logo.svg)
 ![git](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/git-scm-icon.svg)
 ![github](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/github-icon.svg)
 ![vscode](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/visualstudio_code-icon.svg)
