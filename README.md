@@ -16,13 +16,12 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 
 ## 🧰 Technologies & Tools
 
-![python](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/python-icon.svg)
-![flutter](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/flutterio-icon.svg)
-![dart](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/dartlang-icon.svg)
-![csharp](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/C_Sharp_logo.svg)
-![git](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/git-scm-icon.svg)
-![github](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/github-icon.svg)
-![vscode](https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/visualstudio_code-icon.svg)
-
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/python-icon.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/flutterio-icon.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/dartlang-icon.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/C_Sharp_logo.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/git-scm-icon.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/github-icon.svg" width="65px">
+<img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/visualstudio_code-icon.svg" width="65px">
 <!--https://www.vectorlogo.zone/-->
 <!--https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/-->
