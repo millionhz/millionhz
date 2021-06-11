@@ -4,7 +4,12 @@ Its me Hamza. I am a CS student who loves to code. I am very good with python. I
 
 ## 📝 My 2021 Todos
 
-- [ ] Set up the todo list
+- [ ] Learn Javascript
+- [ ] Do more C++
+- [ ] Learn Solidity
+- [ ] Release your first app
+- [ ] Learn full stack development
+- [ ] Launch your first site
 
 ## 🧰 Technologies & Tools
 
