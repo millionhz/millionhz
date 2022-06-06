@@ -11,6 +11,7 @@ Checkout my projects listed down below.
 - [ ] Tailwind
 - [ ] Sass
 - [ ] JavaScript
+- [X] Express
 - [ ] Vue
 - [ ] Making a web app
 
