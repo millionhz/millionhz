@@ -11,7 +11,7 @@ Checkout my projects listed down below.
 - [ ] Tailwind
 - [ ] Sass
 - [x] JavaScript Basics
-- [ ] JavaScript Advanced
+- [X] JavaScript Advanced
 - [X] Express
 - [ ] Vue
 - [x] React Basics
