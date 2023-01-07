@@ -1,22 +1,16 @@
-# Hey! <img src="https://raw.githubusercontent.com/millionhz/millionhz/master/gallery/wave.gif" width="30px">
+# Hey! 👋
 
 Checkout my projects listed down below.
 
 ## 📝 Things Im Doing This Year
 
-- [X] Solidity
-- [X] HTML
-- [X] CSS
-- [X] Bootstrap
 - [ ] Tailwind
-- [ ] Sass
-- [x] JavaScript Basics
-- [X] JavaScript Advanced
-- [X] Express
-- [ ] Vue
-- [x] React Basics
-- [x] React Advanced
+- [ ] Typescript
 - [ ] Making a web app
+- [ ] Serverless Computing
+- [ ] Pytorch
+- [ ] Docker
+- [ ] AWS
 
 
 ## 🧰 Technologies & Tools
