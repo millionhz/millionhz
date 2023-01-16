@@ -5,7 +5,7 @@ Checkout my projects listed down below.
 ## 📝 Things Im Doing This Year
 
 - [ ] Tailwind
-- [ ] Typescript
+- [x] Typescript
 - [ ] Making a web app
 - [ ] Serverless Computing
 - [ ] Pytorch
@@ -19,6 +19,8 @@ Checkout my projects listed down below.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65px"/>
+
 
 ### 📊 Data Science & Machine Learning
 
