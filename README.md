@@ -4,10 +4,12 @@ Checkout my projects listed down below.
 
 ## 📝 Things Im Doing This Year
 
-- [ ] Tailwind
 - [x] Typescript
 - [x] Making a web app
+- [ ] Tailwind
 - [x] Pytorch
+- [ ] HuggingFace
+- [ ] Prompt Engineering
 - [ ] Serverless Computing
 
 ## 🧰 Technologies & Tools
