@@ -20,7 +20,7 @@ Checkout my projects listed down below.
 
 ### 🤖 Machine Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="65px"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="65px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="65px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="65px"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="65px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="65px"/> 
 
 ### 📊 Data Science
 
