@@ -1,12 +1,6 @@
 # Hey! 👋
 
-Checkout my projects listed down below.
-
-## 📝 Things Im Doing This Year
-
-- [ ] Publishing paper
-- [ ] Leetcode
-- [ ] Prompt Engineering
+Check out my projects listed below.
 
 ## 🧰 Technologies & Tools
 
